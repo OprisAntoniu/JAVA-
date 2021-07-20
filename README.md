@@ -1,2 +1,2 @@
 # JAVA-Major-Minor
-JAVA work on Eclipse
+JAVA codes using Eclipse 
